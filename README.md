@@ -55,8 +55,9 @@
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/chandra-sagar-c-m/) 
-
+<a href="https://www.linkedin.com/in/chandra-sagar-c-m/" target="_blank">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>  
 📧 Work Email: chandra.sagar@ascendion.com
 
 📧 Email: chandrasagargowda18@gmail.com
