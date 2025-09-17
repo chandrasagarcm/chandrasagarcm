@@ -49,7 +49,7 @@
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/chandra-sagar-c-m/)  
-📧 Email: your.email@example.com  
+📧 Email: chandrasagargowda18@gmail.com
 
 ---
 
