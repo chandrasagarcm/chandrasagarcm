@@ -41,27 +41,22 @@
 
 ---
 
-## 📂 GitHub Work
-- 🔗 [Main Profile](https://github.com/chandrasagarcm)  
-
 ## 📊 GitHub Stats
 
+## 🔗 [Main Profile](https://github.com/chandrasagarcm) 
 ### 📂 Sample Projects
+![Chandra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrasagarcm&layout=compact&theme=tokyonight)  
 
-![Chandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandrasagarcm&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrasagarcm&layout=compact&theme=tokyonight)  
 
-- 📘 [Training Repository (Ascendion)](https://github.com/ASC04-CHANDRA-GIT-HUB)  
-
+## 📘 [Training Repository (Ascendion)](https://github.com/ASC04-CHANDRA-GIT-HUB)  
 ### 📂 Advanced Projects
-
-![Chandra's Training Repository's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASC04-CHANDRA-GIT-HUB&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASC04-CHANDRA-GIT-HUB&layout=compact&theme=tokyonight) 
+![Chandra's Training Repository's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASC04-CHANDRA-GIT-HUB&layout=compact&theme=tokyonight) 
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/chandra-sagar-c-m/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/chandra-sagar-c-m/) 
+📧 Work Email: chandra.sagar@ascendion.com
 📧 Email: chandrasagargowda18@gmail.com
 
 --- 
