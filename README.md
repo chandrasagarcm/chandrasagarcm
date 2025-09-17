@@ -60,7 +60,6 @@
 </a>  
 
 📧 Work Email: chandra.sagar@ascendion.com
-
 📧 Email: chandrasagargowda18@gmail.com
 
 --- 
