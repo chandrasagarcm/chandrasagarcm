@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Chandra Sagar
 
-🔹 Java | Spring Boot | React.js | Python | Cloud Technologies  
+🔹 Java | Spring Boot | React.js | Cloud Technologies  
 🔹 Passionate about building scalable and mission-critical apps  
 
 ---
@@ -10,7 +10,7 @@
 - 🎓 Graduate from **PES University**  
 - 🌱 Past **Software Engineer Intern** at *White And Box – Tech Products & Services*  
 - 🛠️ Experienced in full-stack development, AI/ML, and software engineering concepts  
-- 🏏 Cricket lover & fitness enthusiast  
+- 🏏 Passionate cricketer & fitness enthusiast  
 
 ---
 
@@ -59,7 +59,9 @@
   <img src="https://img.shields.io/badge/LinkedIn%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>  
 
+
 📧 Work Email: chandra.sagar@ascendion.com
+
 📧 Email: chandrasagargowda18@gmail.com
 
 --- 
