@@ -1,87 +1,67 @@
-👋 Hey, I'm Chandra Sagar
-🚀 Building Scalable Software • Crafting Cloud Solutions • Exploring AI
+# Hi there 👋, I'm Chandra Sagar
 
-Turning ideas into production-ready applications with Java, Spring Boot, React, and Cloud Technologies.
+🔹 Java | Spring Boot | React.js | Cloud Technologies  
+🔹 Passionate about building scalable and mission-critical apps  
 
-🌟 Who Am I?
+---
 
-I'm a software engineer passionate about designing and developing reliable, scalable, and impactful digital solutions.
+## 🚀 About Me
+- 💻 Associate Engineer at **Ascendion**  
+- 🎓 Graduate from **PES University**  
+- 🌱 Past **Software Engineer Intern** at *White And Box – Tech Products & Services*  
+- 🛠️ Experienced in full-stack development, AI/ML, and software engineering concepts  
+- 🏏 Passionate cricketer & fitness enthusiast  
 
-🔹 Associate Engineer @ Ascendion
- 🔹 PES University Graduate
- 🔹 Former Software Engineer Intern @ White And Box
- 🔹 Full-Stack Developer with interests in Cloud, AI/ML, and Distributed Systems
- 🔹 Cricket enthusiast who believes great software teams are built like great sports teams 🏏
+---
 
-💡 What I Love Building
+## 🛠️ Skills
 
-⚡ Enterprise-grade Backend Systems
- 🌐 Responsive Web Applications
- ☁️ Cloud-Native Solutions
- 🤖 AI-Powered Applications
- 📊 Data-Driven Products
- 🚀 High-Performance Microservices
+### 🎓 Academic Skills (PES University)
+- Database Management System (DBMS)  
+- Object-Oriented Programming (OOP)  
+- C++  
+- Robot Operating System (ROS)  
+- Team Leadership  
+- Operating Systems  
+- Data Structures  
+- Software Testing  
+- Ethical Hacking  
 
-🛠 Tech Arsenal
-Backend Engineering
+### 💼 Professional Skills (Ascendion)
+- Spring Boot  
+- Spring Framework  
+- React.js  
+- Microsoft SQL Server  
 
-https://img.shields.io/badge/Java-E63946?style=for-the-badge&logo=openjdk&logoColor=white https://img.shields.io/badge/Spring_Boot-2E7D32?style=for-the-badge&logo=springboot&logoColor=white https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white
+### 🧑‍💻 Internship Skills (White And Box – Tech Products & Services)
+- Python (Programming Language)  
+- Augmented Reality (AR)  
+- OpenCV  
+- Streamlit  
 
-Frontend Development
+---
 
-https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=react&logoColor=white https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+## 📊 GitHub Stats
 
-Databases & Data
+## 🔗 [Main Profile](https://github.com/chandrasagarcm) 
+### 📂 Sample Projects
+![Chandra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrasagarcm&layout=compact&theme=tokyonight)  
 
-https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white
 
-AI & Computer Vision
+## 📘 [Training Repository (Ascendion)](https://github.com/ASC04-CHANDRA-GIT-HUB)  
+### 📂 Advanced Projects
+![Chandra's Training Repository's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASC04-CHANDRA-GIT-HUB&layout=compact&theme=tokyonight) 
 
-https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white
+---
 
-Additional Expertise
+## 📫 Connect with Me
+<a href="https://www.linkedin.com/in/chandra-sagar-c-m/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>  
 
-Data Structures • OOP • DBMS • Operating Systems • Software Testing • ROS • Ethical Hacking • Leadership
 
-🔥 Current Focus
-Java
-while(alive){
-Learn();
-Build();
-Deploy();
-Improve();
-Repeat();
-}
+📧 Work Email: chandra.sagar@ascendion.com
 
-🌱 Exploring Microservices Architecture
- ☁️ Deepening Cloud Engineering Skills
- 🤖 Experimenting with AI Applications
- 🏗 Building End-to-End Full Stack Projects
+📧 Email: chandrasagargowda18@gmail.com
 
-📈 GitHub Journey
-🚀 Featured Projects
-Enterprise Java Applications
-Spring Boot Microservices
-React Frontend Solutions
-AI & Computer Vision Projects
-Full Stack Cloud Applications
-🎯 What You'll Find Here
-
-✅ Clean Architecture
- ✅ Production-Grade Code
- ✅ Real-World Use Cases
- ✅ Continuous Learning Projects
-
-📬 Let's Connect
-
-🌐 LinkedIn
- Chandra Sagar
-
-📧 Work: chandra.sagar@ascendion.com
- 📧 Personal: chandrasagargowda18@gmail.com
-
-💭 Developer Philosophy
-
-"Technology is not just about writing code. It's about solving meaningful problems, creating value, and continuously learning along the journey."
-
-⭐ Thanks for visiting my profile. Let's build something amazing together!
+--- 
